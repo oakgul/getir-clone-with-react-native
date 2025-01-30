@@ -1,2 +1,2 @@
-# getir-clone-with-react-native
+# Getir App Clone Project
 Getir App with React Native
